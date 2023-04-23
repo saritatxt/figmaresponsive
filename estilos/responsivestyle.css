@@ -19,6 +19,7 @@ body{
     background-color: var(---cor-primaria);
     color: var(---cor-terciaria);
 }
+    
 .titulo-destaque{
     color: var(---cor-quinaria);
 }
@@ -27,6 +28,7 @@ body{
     align-items: center;
     justify-content: space-between;
     padding: 4% 13%;
+    
 }
 .apresentacao_conteudo{
     width: 600px;
@@ -132,6 +134,8 @@ body{
     padding: 5%;
     gap: 82px;
     flex-direction: column-reverse;
+    margin: 5%
+    
     
 }
 
