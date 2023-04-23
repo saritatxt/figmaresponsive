@@ -131,7 +131,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 5%;
+    padding: 5% 15%;
     gap: 82px;
     flex-direction: column-reverse;
     
@@ -179,7 +179,7 @@ body{
 .apresentacao_links_subtitulo {
     font-family: var(---fonte-primaria);
     font-weight: 400;
-    size: 24px;
+    font-size: 1.5rem;
 }
 .apresentacao_links_link{
     background-color:var(---cor-quaternaria);
